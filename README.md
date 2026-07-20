@@ -397,4 +397,4 @@ Built as part of an AI engineering assessment. The objective was to architect an
 
 ---
 
-*Powered by NVIDIA NIM · LangGraph · Streamlit · Plotly · Pandas*
+
