@@ -1,12 +1,12 @@
 # 📊 AI-Powered Data Analyst
 
-> An enterprise-grade, AI-powered Data Analyst platform built with **LangGraph + NVIDIA NIM + Streamlit**. Upload any CSV and get instant AI-driven insights, forecasting, anomaly detection, SQL generation, Pandas code, and beautiful interactive visualizations — all in a premium dark glassmorphism dashboard.
+> An AI-powered Data Analyst platform built with **LangGraph + NVIDIA NIM + Streamlit**. Upload any CSV and get instant AI-driven insights, forecasting, anomaly detection, SQL generation, Pandas code, and beautiful interactive visualizations — all in a premium dark glassmorphism dashboard.
 
 ---
 
 ## 🎥 Demo
 
-> **Live Demo / Video:** _[Add your deployed app link or Loom video URL here]_
+> **Live Demo / Video:** https://drive.google.com/file/d/1o2hMFBRfEXq1BE6ceLdT9PVQmDQ5yWn4/view?usp=sharing
 
 ---
 
