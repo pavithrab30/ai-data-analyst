@@ -12,8 +12,12 @@
 
 ## 📸 Screenshots
 
-<!-- Paste your screenshots here -->
-
+![Dashboard](ai-data-analyst/image.png)
+![AI Chat](ai-data-analyst/image-1.png)
+![Forecasting](ai-data-analyst/image-2.png)
+![Anomaly Detection](ai-data-analyst/image-3.png)
+![Observability](ai-data-analyst/image-4.png)
+![Export](ai-data-analyst/image-5.png)
 
 ---
 
